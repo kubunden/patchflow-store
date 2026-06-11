@@ -2,7 +2,7 @@
   "version": 1,
   "updatedAt": "2026-06-11",
   "baseImageURL": "https://kubunden.github.io/patchflow-store/images/",
-  "basePackageURL": "https://kubunden.github.io/patchflow-store/releases/download/v1.0.0/",
+  "basePackageURL": "https://kubunden.github.io/patchflow-store/releases/tag/v1.0.0/",
   "categories": [
     "Piano",
     "EP",
