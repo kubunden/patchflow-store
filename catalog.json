@@ -1,7 +1,7 @@
 {
   "version": 1,
   "updatedAt": "2026-06-11",
-  "baseImageURL": "https://stefyipad.github.io/patchflow-store/images/",
+  "baseImageURL": "https://kubunden.github.io/patchflow-store/images/",
   "basePackageURL": "https://github.com/stefyipad/patchflow-store/releases/download/v1.0.0/",
   "categories": [
     "Piano",
