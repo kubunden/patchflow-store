@@ -28,7 +28,7 @@
       "samplesCount": 360,
       "zonesCount": 360,
       "imagePath": "astoria.jpg",
-      "packagePath": "AstoriaGrand.pfinstrument"
+      "packagePath": "AstoriaGrand.pfinstrument.zip"
     },
     {
       "id": "blackupright",
@@ -45,7 +45,7 @@
       "samplesCount": 360,
       "zonesCount": 360,
       "imagePath": "blackupright.jpg",
-      "packagePath": "BlackUpright.pfinstrument"
+      "packagePath": "BlackUpright.pfinstrument.zip"
     },
     {
       "id": "feltupright",
@@ -62,7 +62,7 @@
       "samplesCount": 360,
       "zonesCount": 360,
       "imagePath": "feltupright.jpg",
-      "packagePath": "FeltUpright.pfinstrument"
+      "packagePath": "FeltUpright.pfinstrument.zip"
     },
     {
       "id": "italiangrand",
@@ -79,7 +79,7 @@
       "samplesCount": 360,
       "zonesCount": 360,
       "imagePath": "italiangrand.jpg",
-      "packagePath": "ItalianGrand.pfinstrument"
+      "packagePath": "ItalianGrand.pfinstrument.zip"
     },
     {
       "id": "royalgrand3d",
@@ -96,7 +96,7 @@
       "samplesCount": 360,
       "zonesCount": 360,
       "imagePath": "royalgrand3d.jpg",
-      "packagePath": "RoyalGrand3D.pfinstrument"
+      "packagePath": "RoyalGrand3D.pfinstrument.zip"
     },
     {
       "id": "softgrand",
@@ -113,7 +113,7 @@
       "samplesCount": 360,
       "zonesCount": 360,
       "imagePath": "softgrand.jpg",
-      "packagePath": "SoftGrand.pfinstrument"
+      "packagePath": "SoftGrand.pfinstrument.zip"
     },
     {
       "id": "whitegrand",
@@ -130,7 +130,7 @@
       "samplesCount": 360,
       "zonesCount": 360,
       "imagePath": "whitegrand.jpg",
-      "packagePath": "WhiteGrand.pfinstrument"
+      "packagePath": "WhiteGrand.pfinstrument.zip"
     },
     {
       "id": "80slayer",
@@ -147,7 +147,7 @@
       "samplesCount": 396,
       "zonesCount": 396,
       "imagePath": "80slayer.jpg",
-      "packagePath": "80sLayer.pfinstrument"
+      "packagePath": "80sLayer.pfinstrument.zip"
     },
     {
       "id": "balladep",
@@ -164,7 +164,7 @@
       "samplesCount": 180,
       "zonesCount": 180,
       "imagePath": "balladep.jpg",
-      "packagePath": "BalladEP.pfinstrument"
+      "packagePath": "BalladEP.pfinstrument.zip"
     },
     {
       "id": "epdeep",
@@ -181,7 +181,7 @@
       "samplesCount": 240,
       "zonesCount": 240,
       "imagePath": "epdeep.jpg",
-      "packagePath": "EPDeep.pfinstrument"
+      "packagePath": "EPDeep.pfinstrument.zip"
     },
     {
       "id": "wurlitzer",
@@ -198,7 +198,7 @@
       "samplesCount": 240,
       "zonesCount": 240,
       "imagePath": "wurlitzer.jpg",
-      "packagePath": "Wurlitzer.pfinstrument"
+      "packagePath": "Wurlitzer.pfinstrument.zip"
     },
     {
       "id": "b3leslie",
@@ -215,7 +215,7 @@
       "samplesCount": 60,
       "zonesCount": 60,
       "imagePath": "b3leslie.jpg",
-      "packagePath": "B3Leslie.pfinstrument"
+      "packagePath": "B3Leslie.pfinstrument.zip"
     },
     {
       "id": "b3",
@@ -232,7 +232,7 @@
       "samplesCount": 60,
       "zonesCount": 60,
       "imagePath": "b3.jpg",
-      "packagePath": "B3.pfinstrument"
+      "packagePath": "B3.pfinstrument.zip"
     },
     {
       "id": "memories",
@@ -249,7 +249,7 @@
       "samplesCount": 58,
       "zonesCount": 58,
       "imagePath": "memories.jpg",
-      "packagePath": "Memories.pfinstrument"
+      "packagePath": "Memories.pfinstrument.zip"
     },
     {
       "id": "worshippad",
@@ -266,7 +266,7 @@
       "samplesCount": 60,
       "zonesCount": 60,
       "imagePath": "worshippad.jpg",
-      "packagePath": "WorshipPad.pfinstrument"
+      "packagePath": "WorshipPad.pfinstrument.zip"
     },
     {
       "id": "strings",
@@ -283,7 +283,7 @@
       "samplesCount": 60,
       "zonesCount": 60,
       "imagePath": "strings.jpg",
-      "packagePath": "Strings.pfinstrument"
+      "packagePath": "Strings.pfinstrument.zip"
     },
     {
       "id": "synth",
@@ -300,7 +300,7 @@
       "samplesCount": 60,
       "zonesCount": 60,
       "imagePath": "synth.jpg",
-      "packagePath": "Synth.pfinstrument"
+      "packagePath": "Synth.pfinstrument.zip"
     },
     {
       "id": "bell",
@@ -317,7 +317,7 @@
       "samplesCount": 42,
       "zonesCount": 42,
       "imagePath": "bell.jpg",
-      "packagePath": "Bell.pfinstrument"
+      "packagePath": "Bell.pfinstrument.zip"
     }
   ]
 }
