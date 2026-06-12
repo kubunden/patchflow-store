@@ -15,8 +15,8 @@
   "instruments": [
     {
       "id": "astoria",
-      "instrumentID": "com.patchflow.instrument.astoria",
-      "productID": "com.patchflow.iap.astoria",
+      "instrumentID": "com.patchflow.instrument.astoriagrand",
+      "productID": "com.patchflow.iap.astoriagrand",
       "name": "Astoria Grand",
       "subtitle": "Premium sampled grand piano",
       "description": "A detailed acoustic grand piano for expressive live performance and studio-style PatchFlow patches.",
