@@ -30,7 +30,8 @@
       "samplesCount": 360,
       "zonesCount": 360,
       "imagePath": "astoria.jpg",
-      "packagePath": "AstoriaGrand.pfinstrument.zip"
+      "packagePath": "AstoriaGrand.pfinstrument.zip",
+      "packageSizeBytes": 839829026
     },
     {
       "id": "blackupright",
@@ -49,7 +50,8 @@
       "samplesCount": 360,
       "zonesCount": 360,
       "imagePath": "blackupright.jpg",
-      "packagePath": "BlackUpright.pfinstrument.zip"
+      "packagePath": "BlackUpright.pfinstrument.zip",
+      "packageSizeBytes": 781445719
     },
     {
       "id": "feltupright",
@@ -68,7 +70,8 @@
       "samplesCount": 360,
       "zonesCount": 360,
       "imagePath": "feltupright.jpg",
-      "packagePath": "FeltUpright.pfinstrument.zip"
+      "packagePath": "FeltUpright.pfinstrument.zip",
+      "packageSizeBytes": 666932163
     },
     {
       "id": "italiangrand",
@@ -87,7 +90,8 @@
       "samplesCount": 360,
       "zonesCount": 360,
       "imagePath": "italiangrand.jpg",
-      "packagePath": "ItalianGrand.pfinstrument.zip"
+      "packagePath": "ItalianGrand.pfinstrument.zip",
+      "packageSizeBytes": 733171466
     },
     {
       "id": "royalgrand3d",
@@ -106,7 +110,8 @@
       "samplesCount": 360,
       "zonesCount": 360,
       "imagePath": "royalgrand3d.jpg",
-      "packagePath": "RoyalGrand3D.pfinstrument.zip"
+      "packagePath": "RoyalGrand3D.pfinstrument.zip",
+      "packageSizeBytes": 747901733
     },
     {
       "id": "softgrand",
@@ -125,7 +130,8 @@
       "samplesCount": 360,
       "zonesCount": 360,
       "imagePath": "softgrand.jpg",
-      "packagePath": "SoftGrand.pfinstrument.zip"
+      "packagePath": "SoftGrand.pfinstrument.zip",
+      "packageSizeBytes": 658494741
     },
     {
       "id": "whitegrand",
@@ -144,7 +150,8 @@
       "samplesCount": 360,
       "zonesCount": 360,
       "imagePath": "whitegrand.jpg",
-      "packagePath": "WhiteGrand.pfinstrument.zip"
+      "packagePath": "WhiteGrand.pfinstrument.zip",
+      "packageSizeBytes": 681929550
     },
     {
       "id": "80slayer",
@@ -163,7 +170,8 @@
       "samplesCount": 396,
       "zonesCount": 396,
       "imagePath": "80slayer.jpg",
-      "packagePath": "80sLayer.pfinstrument.zip"
+      "packagePath": "80sLayer.pfinstrument.zip",
+      "packageSizeBytes": 623795359
     },
     {
       "id": "balladep",
@@ -182,7 +190,8 @@
       "samplesCount": 180,
       "zonesCount": 180,
       "imagePath": "balladep.jpg",
-      "packagePath": "BalladEP.pfinstrument.zip"
+      "packagePath": "BalladEP.pfinstrument.zip",
+      "packageSizeBytes": 351727147
     },
     {
       "id": "epdeep",
@@ -201,7 +210,8 @@
       "samplesCount": 240,
       "zonesCount": 240,
       "imagePath": "epdeep.jpg",
-      "packagePath": "EPDeep.pfinstrument.zip"
+      "packagePath": "EPDeep.pfinstrument.zip",
+      "packageSizeBytes": 504089014
     },
     {
       "id": "wurlitzer",
@@ -220,7 +230,8 @@
       "samplesCount": 240,
       "zonesCount": 240,
       "imagePath": "wurlitzer.jpg",
-      "packagePath": "Wurlitzer.pfinstrument.zip"
+      "packagePath": "Wurlitzer.pfinstrument.zip",
+      "packageSizeBytes": 384567482
     },
     {
       "id": "b3leslie",
@@ -239,7 +250,8 @@
       "samplesCount": 60,
       "zonesCount": 60,
       "imagePath": "b3leslie.jpg",
-      "packagePath": "B3Leslie.pfinstrument.zip"
+      "packagePath": "B3Leslie.pfinstrument.zip",
+      "packageSizeBytes": 161509743
     },
     {
       "id": "b3",
@@ -258,7 +270,8 @@
       "samplesCount": 60,
       "zonesCount": 60,
       "imagePath": "b3.jpg",
-      "packagePath": "B3.pfinstrument.zip"
+      "packagePath": "B3.pfinstrument.zip",
+      "packageSizeBytes": 161532665
     },
     {
       "id": "memories",
@@ -277,7 +290,8 @@
       "samplesCount": 58,
       "zonesCount": 58,
       "imagePath": "memories.jpg",
-      "packagePath": "Memories.pfinstrument.zip"
+      "packagePath": "Memories.pfinstrument.zip",
+      "packageSizeBytes": 164267356
     },
     {
       "id": "worshippad",
@@ -296,7 +310,8 @@
       "samplesCount": 60,
       "zonesCount": 60,
       "imagePath": "worshippad.jpg",
-      "packagePath": "WorshipPad.pfinstrument.zip"
+      "packagePath": "WorshipPad.pfinstrument.zip",
+      "packageSizeBytes": 112336926
     },
     {
       "id": "strings",
@@ -315,7 +330,8 @@
       "samplesCount": 60,
       "zonesCount": 60,
       "imagePath": "strings.jpg",
-      "packagePath": "Strings.pfinstrument.zip"
+      "packagePath": "Strings.pfinstrument.zip",
+      "packageSizeBytes": 164893460
     },
     {
       "id": "synth",
@@ -334,7 +350,8 @@
       "samplesCount": 60,
       "zonesCount": 60,
       "imagePath": "synth.jpg",
-      "packagePath": "Synth.pfinstrument.zip"
+      "packagePath": "Synth.pfinstrument.zip",
+      "packageSizeBytes": 136120239
     },
     {
       "id": "bell",
@@ -353,7 +370,8 @@
       "samplesCount": 42,
       "zonesCount": 42,
       "imagePath": "bell.jpg",
-      "packagePath": "Bell.pfinstrument.zip"
+      "packagePath": "Bell.pfinstrument.zip",
+      "packageSizeBytes": 38020391
     }
   ]
 }
