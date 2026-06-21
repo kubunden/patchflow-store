@@ -32,7 +32,7 @@
       "imagePath": "astoria.jpg",
       "packagePath": "AstoriaGrand.pfinstrument.zip",
       "packageSizeBytes": 839829026,
-      "demoPath": "demo/astoria.mp3"
+      "demoPath": "demo/astoria.m4a"
     },
     {
       "id": "blackupright",
@@ -53,7 +53,7 @@
       "imagePath": "blackupright.jpg",
       "packagePath": "BlackUpright.pfinstrument.zip",
       "packageSizeBytes": 781445719,
-      "demoPath": "demo/blackupright.mp3"
+      "demoPath": "demo/blackupright.m4a"
     },
     {
       "id": "feltupright",
@@ -74,7 +74,7 @@
       "imagePath": "feltupright.jpg",
       "packagePath": "FeltUpright.pfinstrument.zip",
       "packageSizeBytes": 666932163,
-      "demoPath": "demo/feltupright.mp3"
+      "demoPath": "demo/feltupright.m4a"
     },
     {
       "id": "italiangrand",
@@ -95,7 +95,7 @@
       "imagePath": "italiangrand.jpg",
       "packagePath": "ItalianGrand.pfinstrument.zip",
       "packageSizeBytes": 733171466,
-      "demoPath": "demo/italiangrand.mp3"
+      "demoPath": "demo/italiangrand.m4a"
     },
     {
       "id": "royalgrand3d",
@@ -116,7 +116,7 @@
       "imagePath": "royalgrand3d.jpg",
       "packagePath": "RoyalGrand3D.pfinstrument.zip",
       "packageSizeBytes": 747901733,
-      "demoPath": "demo/royalgrand3d.mp3"
+      "demoPath": "demo/royalgrand3d.m4a"
     },
     {
       "id": "softgrand",
@@ -137,7 +137,7 @@
       "imagePath": "softgrand.jpg",
       "packagePath": "SoftGrand.pfinstrument.zip",
       "packageSizeBytes": 658494741,
-      "demoPath": "demo/softgrand.mp3"
+      "demoPath": "demo/softgrand.m4a"
     },
     {
       "id": "whitegrand",
@@ -158,7 +158,7 @@
       "imagePath": "whitegrand.jpg",
       "packagePath": "WhiteGrand.pfinstrument.zip",
       "packageSizeBytes": 681929550,
-      "demoPath": "demo/whitegrand.mp3"
+      "demoPath": "demo/whitegrand.m4a"
     },
     {
       "id": "80slayer",
@@ -179,7 +179,7 @@
       "imagePath": "80slayer.jpg",
       "packagePath": "80sLayer.pfinstrument.zip",
       "packageSizeBytes": 623795359,
-      "demoPath": "demo/80slayer.mp3"
+      "demoPath": "demo/80slayer.m4a"
     },
     {
       "id": "balladep",
@@ -200,7 +200,7 @@
       "imagePath": "balladep.jpg",
       "packagePath": "BalladEP.pfinstrument.zip",
       "packageSizeBytes": 351727147,
-      "demoPath": "demo/balladep.mp3"
+      "demoPath": "demo/balladep.m4a"
     },
     {
       "id": "epdeep",
@@ -221,7 +221,7 @@
       "imagePath": "epdeep.jpg",
       "packagePath": "EPDeep.pfinstrument.zip",
       "packageSizeBytes": 504089014,
-      "demoPath": "demo/epdeep.mp3"
+      "demoPath": "demo/epdeep.m4a"
     },
     {
       "id": "wurlitzer",
@@ -242,7 +242,7 @@
       "imagePath": "wurlitzer.jpg",
       "packagePath": "Wurlitzer.pfinstrument.zip",
       "packageSizeBytes": 384567482,
-      "demoPath": "demo/wurlitzer.mp3"
+      "demoPath": "demo/wurlitzer.m4a"
     },
     {
       "id": "b3leslie",
@@ -263,7 +263,7 @@
       "imagePath": "b3leslie.jpg",
       "packagePath": "B3Leslie.pfinstrument.zip",
       "packageSizeBytes": 161509743,
-      "demoPath": "demo/b3leslie.mp3"
+      "demoPath": "demo/b3leslie.m4a"
     },
     {
       "id": "b3",
@@ -284,7 +284,7 @@
       "imagePath": "b3.jpg",
       "packagePath": "B3.pfinstrument.zip",
       "packageSizeBytes": 161532665,
-      "demoPath": "demo/b3.mp3"
+      "demoPath": "demo/b3.m4a"
     },
     {
       "id": "memories",
@@ -305,7 +305,7 @@
       "imagePath": "memories.jpg",
       "packagePath": "Memories.pfinstrument.zip",
       "packageSizeBytes": 164267356,
-      "demoPath": "demo/memories.mp3"
+      "demoPath": "demo/memories.m4a"
     },
     {
       "id": "worshippad",
@@ -326,7 +326,7 @@
       "imagePath": "worshippad.jpg",
       "packagePath": "WorshipPad.pfinstrument.zip",
       "packageSizeBytes": 112336926,
-      "demoPath": "demo/worshippad.mp3"
+      "demoPath": "demo/worshippad.m4a"
     },
     {
       "id": "strings",
@@ -347,7 +347,7 @@
       "imagePath": "strings.jpg",
       "packagePath": "Strings.pfinstrument.zip",
       "packageSizeBytes": 164893460,
-      "demoPath": "demo/strings.mp3"
+      "demoPath": "demo/strings.m4a"
     },
     {
       "id": "synth",
@@ -368,7 +368,7 @@
       "imagePath": "synth.jpg",
       "packagePath": "Synth.pfinstrument.zip",
       "packageSizeBytes": 136120239,
-      "demoPath": "demo/synth.mp3"
+      "demoPath": "demo/synth.m4a"
     },
     {
       "id": "bell",
@@ -389,7 +389,7 @@
       "imagePath": "bell.jpg",
       "packagePath": "Bell.pfinstrument.zip",
       "packageSizeBytes": 38020391,
-      "demoPath": "demo/bell.mp3"
+      "demoPath": "demo/bell.m4a"
     }
   ]
 }
